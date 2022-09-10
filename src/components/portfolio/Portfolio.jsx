@@ -11,44 +11,44 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Crypto Currency Dashboard & Financial Visualization",
-    github: "https://github.com",
-    demo: "https://dribbble.com/shots/16673715-Crypto-currency-dahsboard-and-financial-data-visualization"
+    title: "Real Estate Website",
+    github: "https://github.com/yusuf2007/realestate-website",
+    demo: "https://real-estate-website-2022.netlify.app/"
   },
   {
     id: 2,
     image: IMG2,
-    title: "Crypto Currency Dashboard & Financial Visualization",
-    github: "https://github.com",
-    demo: "https://dribbble.com/shots/16673715-Crypto-currency-dahsboard-and-financial-data-visualization"
+    title: "Food Ordering Website",
+    github: "https://github.com/yusuf2007/foood-order",
+    demo: "https://foood-order.netlify.app"
   },
   {
     id: 3,
     image: IMG3,
-    title: "Crypto Currency Dashboard & Financial Visualization",
-    github: "https://github.com",
-    demo: "https://dribbble.com/shots/16673715-Crypto-currency-dahsboard-and-financial-data-visualization"
+    title: "Piano game",
+    github: "https://github.com/yusuf2007/piano-demo-site",
+    demo: "https://piano-demo-site.netlify.app"
   },
   {
     id: 4,
     image: IMG4,
-    title: "Crypto Currency Dashboard & Financial Visualization",
-    github: "https://github.com",
-    demo: "https://dribbble.com/shots/16673715-Crypto-currency-dahsboard-and-financial-data-visualization"
+    title: "Speed Typing game",
+    github: "https://github.com/yusuf2007/speed-typer",
+    demo: "https://speed-typer-test.netlify.app"
   },
   {
     id: 5,
     image: IMG5,
-    title: "Crypto Currency Dashboard & Financial Visualization",
-    github: "https://github.com",
-    demo: "https://dribbble.com/shots/16673715-Crypto-currency-dahsboard-and-financial-data-visualization"
+    title: "Tic, Tac, Toe",
+    github: "https://github.com/yusuf2007/Tic-Tac-Toe",
+    demo: "https://clone-tic-tac-toe.netlify.app"
   },
   {
     id: 6,
     image: IMG6,
-    title: "Crypto Currency Dashboard & Financial Visualization",
-    github: "https://github.com",
-    demo: "https://dribbble.com/shots/16673715-Crypto-currency-dahsboard-and-financial-data-visualization"
+    title: "Dino game",
+    github: "https://github.com/yusuf2007/DinoGame",
+    demo: "https://clone-dino-game.netlify.app"
   }
 ]
 
