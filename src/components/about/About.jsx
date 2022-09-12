@@ -30,6 +30,11 @@ const About = () => {
               <h5>Projects</h5>
               <small>20+ Completed</small>
             </article>
+            <article className="about__card">
+              <VscFolderLibrary className="about__icon" />
+              <h5>Courses</h5>
+              <small>Completed Full React Course</small>
+            </article>
           </div>
 
           {/* <p>
